@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything you wanna know**
 
-- 📫 How to reach me **support@imperialtc.onmicrosoft.com**
+- 📫 To reach me **support@imperialtc.onmicrosoft.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
