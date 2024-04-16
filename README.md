@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaksham Taneja aka TC_Shaksham</h1>
 <h3 align="center">I enjoy playing online multiplayer games and have a passion for coding</h3>
 
-- 🔭 I’m currently working on [Scholar Pro Connect](https://scholarproconnect.netlify.app)
+- 🔭 I’m currently working on [Neet Pro Connect](https://neetproconnect.netlify.app)
 
 - 🌱 I’m currently learning **Js.node , Cyber Security , C++ , CSS etc**
 
