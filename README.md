@@ -13,7 +13,7 @@
 
 - 📝 I regularly upload cyber Security videos on [https://www.instagram.com/tc_shaksham28/](https://www.instagram.com/tc_shaksham28/)
 
-- 💬 Ask me about **I'm TC_Shaksham, a cybersecurity enthusiast dedicated to making the digital world safer. I thrive on tackling challenges head-on, constantly learning, and sharing my knowledge to empower others.**
+- 💬 About Me  **I'm TC_Shaksham, a cybersecurity enthusiast dedicated to making the digital world safer. I thrive on tackling challenges head-on, constantly learning, and sharing my knowledge to empower others.**
 
 - 📫 How to reach me **support@imperialtc.onmicrosoft.com**
 
