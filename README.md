@@ -61,8 +61,10 @@ I walk with the wrath of MeitY mandates and the intellectual arsenal of Oxford�
 - Cybersecurity – Technology and Governance  
   Governance is my guillotine. Technology is my serrated blade. Kneel.
 
-### 🎓 OpenLearn University (London)
-- Participated in open access elite courses on offensive security fundamentals. I turned their open books into execution scripts.
+### 🧠 Indian Institute of Management, Ahmedabad (IIM-A)
+- **Advanced Digital Transformation Specialization**  
+  I do not *embrace* transformation—I engineer **digital coups**. Where businesses adapt, I evolve into dominant, algorithmic overlords. I learned not to transform businesses, but to *recode their DNA*—systems, culture, leadership, infrastructure
+
 
 ---
 
