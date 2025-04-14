@@ -61,7 +61,7 @@ I walk with the wrath of MeitY mandates and the intellectual arsenal of Oxford�
 - Cybersecurity – Technology and Governance  
   Governance is my guillotine. Technology is my serrated blade. Kneel.
 
-### 🎓 OpenLearn University
+### 🎓 OpenLearn University (London)
 - Participated in open access elite courses on offensive security fundamentals. I turned their open books into execution scripts.
 
 ---
@@ -119,11 +119,6 @@ I walk with the wrath of MeitY mandates and the intellectual arsenal of Oxford�
   - [tc_shaksham28](https://instagram.com/tc_shaksham28)
 - 📧 **Email**: [support@imperialtc.onmicrosoft.com](mailto:support@imperialtc.onmicrosoft.com)
 
----
-
-## 📄 Resume
-
-👉 [Click Here to View Resume](https://og-tcshaksham.netlify.app/files/TC_ShakshamCV.pdf)
 
 ---
 
