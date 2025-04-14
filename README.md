@@ -99,6 +99,9 @@ I walk with the wrath of MeitY mandates and the intellectual arsenal of Oxford�
 - 🎓 **[Scholar Pro Connect](https://scholarproconnect.netlify.app)**  
   CBSE-grade knowledge arsenal with weaponized logic gates.
 
+- 🎓 **[JEE Pro Connect](https://jeeproconnect.netlify.app)**  
+  IIT-grade knowledge arsenal with weaponized logic gates.
+
 - 🧠 **[Neet Pro Connect](https://neetproconnect.netlify.app)**  
   The biochemical equivalent of a firewall for future doctors.
 
