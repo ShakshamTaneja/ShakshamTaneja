@@ -44,7 +44,7 @@ I walk with the wrath of MeitY mandates and the intellectual arsenal of Oxford�
 
 ## 👑 TIER 2: Academic Royalty & Intellectual Supremacy
 
-### 🏛️ IIT Bombay
+### 🏛️ Indian Institute of Technology Bombay (IIT Bombay)
 - **Introduction to Tech Entrepreneurship**  
   I dismantle startups before their MVP sees daylight. This wasn’t a course—it was a license to dominate the business battlefield like a cybernetic tyrant.
 
