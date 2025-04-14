@@ -1,46 +1,131 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<h1 align="center">Hi 👋, I'm TC_Shaksham aka Shaksham Taneja</h1>
+<h1 align="center">⚔️ TC_Shaksham aka Shaksham Taneja ⚔️</h1>
 <h3 align="center">"Embrace the threats, learn from every breach, and let your vigilance be the firewall that drives you forward." — TC_Shaksham</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakshamtaneja&label=Profile%20views&color=0e75b6&style=flat" alt="shakshamtaneja" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakshamtaneja" alt="shakshamtaneja" /></a> </p>
-
-- 🔭 I’m currently working on [Imperial TC](https://imperial-tc.netlify.app)
-
-- 🌱 I’m currently learning **Cyber Security, Js.node, C++ , CSS, Web/App Development etc**
-
-- 👯 All in 1 Solution for School Studies Need [Scholar Pro Connect](https://scholarproconnect.netlify.app)
-
-- All in 1 Solution for Neet Studies Need [Neet Pro Connect](https://neetproconnect.netlify.app)
-
-- 👨‍💻 All of my projects are available at [https://tcshaksham.netlify.app](https://tcshaksham.netlify.app)
-
-- 📝 I regularly upload cyber Security videos on [https://www.instagram.com/tc_shaksham28/](https://www.instagram.com/tc_shaksham28/)
-
-- 💬 Ask me about **I'm TC_Shaksham, a cybersecurity enthusiast dedicated to making the digital world safer. I thrive on tackling challenges head-on, constantly learning, and sharing my knowledge to empower others.**
-
-- 📫 How to reach me **support@imperialtc.onmicrosoft.com**
-
-- 📄 Know about my experiences [https://og-tcshaksham.netlify.app/files/TC_ShakshamCV.pdf](https://og-tcshaksham.netlify.app/files/TC_ShakshamCV.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shaksham-taneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaksham-taneja" height="30" width="40" /></a>
-<a href="https://fb.com/shaksham28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaksham28" height="30" width="40" /></a>
-<a href="https://instagram.com/imperial_tc_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imperial_tc_28" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shakshamtaneja&label=🔥 PROFILE DOMINATION COUNT 🔥&color=red&style=flat-square" alt="shakshamtaneja" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
+### 🧠 WHO AM I?
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakshamtaneja&show_icons=true&locale=en&layout=compact" alt="shakshamtaneja" /></p>
+> I'm **TC_Shaksham**, the architect of chaos and control in the digital world. A Cybersecurity Expert. AI Alchemist. Code Dominator. Cloud Manipulator. And the Founder of **IMPERIAL EMINENCE CYBERGUARD CORPORATION**—a fortress of power, resistance, and untraceable intelligence.
+
+My systems don’t crash—they retaliate. My firewalls don’t block—they incinerate.
+
+---
+
+### 🚨 CURRENTLY RUNNING INTELLIGENCE OPERATIONS:
+
+- 🛡️ [**Imperial TC**](https://imperial-tc.netlify.app) — My digital war room. All features. All dominance.
+- 🎓 [**Scholar Pro Connect**](https://scholarproconnect.netlify.app) — Grade 10 & 12 domination in one platform.
+- 🧬 [**NEET Pro Connect**](https://neetproconnect.netlify.app) — NEET prep? Done like a boss.
+- 🌐 [**Official Site of TC_Shaksham**](https://tcshaksham.netlify.app)
+- 📁 [**Vyrmora Browser**] — Military-grade private browser, developed in my dominion. Zero trace. Zero compromise.
+- 💥 [**AI Image Forensics**] — Exposing fakery with mathematical vengeance.
+
+---
+
+### 🛡️ MY BATTLE ARMOR (CERTIFICATIONS):
+
+> A relentless force forged by the biggest tech empires:
+
+- ✅ **IBM Cybersecurity Analyst Professional Certificate**
+- ✅ **Google IT Support & Automation with Python**
+- ✅ **Microsoft Certified: Azure Fundamentals**
+- ✅ **AWS Cloud Practitioner Essentials**
+- ✅ **CompTIA Security+**, **CySA+**
+- ✅ **CISSP Training Completion – Offensive Security**
+- ✅ **University of London – Information Security Certified**
+- ✅ **SAE Institute México – AI & Ethical Hacking**
+- ✅ **HarvardX – CS50 Intro to Computer Science**
+- ✅ **Alison – Penetration Testing, Kali Linux**
+- ✅ **Coursera Mastery – AI/ML, Full Stack Dev, Risk Management**
+- ✅ **Ethical Hacking: Zero to Mastery**
+
+> Total Certificates Owned: **120+** (Available on [Website](https://tcshaksham.netlify.app))
+
+---
+
+### 💣 MY DIGITAL DOMINANCE (PROJECTS):
+
+| 🔥 Project | 💻 Tech Stack | 📍 Link |
+|-----------|---------------|--------|
+| **Imperial TC** | Next.js, CyberSec Stack | [imperial-tc.netlify.app](https://imperial-tc.netlify.app) |
+| **Vyrmora Browser** | ElectronJS, Node.js, Chromium Core | *(Private)* |
+| **Scholar Pro Connect** | HTML, JS, React | [scholarproconnect.netlify.app](https://scholarproconnect.netlify.app) |
+| **AI Image Forensics** | Python, Flask, HTML2PDF | *(Deployed - Internal)* |
+| **Neet Pro Connect** | ReactJS, Firebase | [neetproconnect.netlify.app](https://neetproconnect.netlify.app) |
+| **Terminal UI System** | Shell, JS, Electron | *(On GitHub soon)* |
+| **Cyberbot** | Python, AI NLP | *(Coming soon)* |
+
+---
+
+### 📜 FULL BIO OF DOMINANCE:
+
+- 🎯 Name: **Shaksham Taneja**
+- ⚔️ Codename: **TC_Shaksham**
+- 🧠 Founder of: **Imperial Eminence Cyberguard Corporation**
+- 💼 Specialized in: **Ethical Hacking | Penetration Testing | AI Security Systems | Cyberwarfare Automation**
+- 🌐 Based: **India — but digitally omnipresent**
+- 🕶️ Motto: *“You track me—I trace you. You scan me—I breach you. You touch my data—I erase your existence.”*
+
+---
+
+### 📡 CONNECT WITH THE CYBERGOD:
+
+<p align="left">
+<a href="https://linkedin.com/in/shaksham-taneja" target="blank"><img src="https://img.shields.io/badge/LinkedIn-TC_Shaksham-blue?logo=linkedin" /></a>
+<a href="https://instagram.com/imperial_tc_28" target="blank"><img src="https://img.shields.io/badge/Instagram-@imperial_tc_28-ff00bf?logo=instagram" /></a>
+<a href="mailto:support@imperialtc.onmicrosoft.com"><img src="https://img.shields.io/badge/Email-support@imperialtc.onmicrosoft.com-critical?logo=gmail" /></a>
+</p>
+
+---
+
+### 🧰 ARSENAL (LANGUAGES & TOOLS):
+
+![Python](https://img.shields.io/badge/Python-black?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![Node.js](https://img.shields.io/badge/Node.js-darkgreen?logo=node.js)
+![React](https://img.shields.io/badge/React-cyan?logo=react)
+![Electron](https://img.shields.io/badge/Electron-gray?logo=electron)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoftazure)
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?logo=adobephotoshop)
+![Blender](https://img.shields.io/badge/Blender-orange?logo=blender)
+
+---
+
+### 📊 GITHUB POWER STATS
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shakshamtaneja&show_icons=true&theme=tokyonight&count_private=true" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shakshamtaneja&theme=dark&hide_border=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakshamtaneja&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🔥 QUOTE OF DOMINANCE
+
+> _"The world doesn’t need more developers. It needs more **digital warriors**. Welcome to my domain."_ — **TC_Shaksham**
+
+---
+
+### 📄 DOWNLOAD MY RESUME:
+
+[![Resume](https://img.shields.io/badge/My_Resume-PDF-critical?logo=adobeacrobatreader)](https://og-tcshaksham.netlify.app/files/TC_ShakshamCV.pdf)
+
+---
+
+<img src="https://raw.githubusercontent.com/kidovate/kidovate/main/dino.gif" align="center" width="100%"/>
 
