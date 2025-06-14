@@ -1,139 +1,124 @@
 ![Bottom Banner](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
 
-# 🧠 TC_Shaksham aka Shaksham Taneja
+# 🧠 TC_Shaksham — The Digital Tyrant | Sovereign of Shadows  
+## Chairman — Imperial Eminence Cyberguard Corporation  
+#### ❝ I don’t build dreams—I disembowel them, digit by digit. ❞
 
-> ❝ I do not "learn" cybersecurity—I ritualistically dismember it. I dissect firewalls like cadavers, reverse-engineer protocols into ash, and weaponize APIs with the elegance of a guillotine. This isn't a profession—it's my warpath. ❞
-
-![Profile Views](https://komarev.com/ghpvc/?username=shakshamtaneja&label=Profile%20views&color=ff0000&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=shakshamtaneja&label=Executions%20Witnessed&color=ff0000&style=flat)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=shakshamtaneja&theme=monokai)
 
 ---
 
-## ☠️ About Me
-
-I am TC_Shaksham—sculpted not from ambition but from algorithmic vengeance and zero-day hunger. My domain is not mere cybersecurity—it's digital obliteration. I do not "secure" systems. I **extort control** over networks that think themselves sovereign. MITM attacks? I’ve run autopsies on TLS 1.3. Sandboxes? I’ve made them my burial grounds. You don’t audit me—I audit your *existence*.
-
-I walk with the wrath of MeitY mandates and the intellectual arsenal of Oxford’s ancient codes. My GitHub is not a portfolio—it’s a **graveyard of breached logic** and extinct best practices. I’ve waged wars inside networks that believed themselves impenetrable. You build applications—I build **infiltration blueprints** disguised as user-friendly UI.
+> ❝ Your "final year projects" are my *paperweights*.  
+> Your hackathons are my **warm-ups**.  
+> You code for fun—I code to **conquer**. ❞
 
 ---
 
-## ⚔️ TIER 1: Ministry of Electronics and Information Technology Certifications (MeitY)
+## ☠️ WHO AM I?
 
-1. **Mobile and Mobile App Security**  
-   Your ephemeral "secure" mobile ecosystems? A grotesque farce. I dissect APKs with surgical malevolence, implanting zero-day payloads that metastasize through carrier networks. App stores? My coliseum. Developers? Gladiators awaiting execution.
+> I am not a developer—I am the **malware** in their innovation.  
+> A sovereign compiler of **chaos**. A **walking zero-day**.  
+> While you push commits—I push **ultimatums**.  
+> You debug code—I debug **governments**.
 
-2. **Password Security and MFA**  
-   Passwords are hieroglyphs of naivety. MFA? A pantomime of futility. I transmute SHA-256 hashes into plaintext trophies. Biometrics crumble before my rainbow-table legions.
-
-3. **Phishing and Vishing**  
-   Phishing is beneath me. I engineer voice clones so pristine, your mother would weep. SIM jacking? A parlor trick. I own SS7 protocols. Your phone? A bugged confessional.
-
-4. **Secure Social Media Practices**  
-   Social media is my panopticon. EXIF data is my map. Hashtags? Pyres of your reputation. I turn retweets into reconnaissance.
-
-5. **Cyber Hygiene Practices**  
-   Hygiene implies choice. I enforce digital sterilization. Unpatched CVEs? Carcinogens eradicated by my Snort-IDS flamethrowers.
-
-6. **NSDC X Skill India: Python with Advanced AI**  
-   Python? My serpentine lash. Neural networks? Brainwashed assassins. GPTs hallucinate exploits your SIEM can’t fathom.
-
-7. **(Undisclosed MeitY Ultimatum)**  
-   Redacted under Section 66F of the IT Act. Inquire again, and your DNS records will resolve only to obituaries.
+🔻 Founder of:  
+- 🧠 **[VYRMORA](https://vyrmora.netlify.app)** – Quantum Browser for Zero-Day Tyranny  
+- ⚔️ **[MORVYREX](https://morvyrex.vercel.app)** – Brutal AI Executioner  
+- 🎓 **[EDUXENCE](https://eduxence.netlify.app)** – Educational Warfare  
+- 🏛️ **[IMPERIAL TC](https://imperial-tc.netlify.app)** – Digital Dominion Framework  
+- 🎰 **[AURA ROYAL CASINO](https://auraroyalcasino.netlify.app)** – Crypto Laundering Meets Royal Aesthetics  
+- 📚 **[SCHOLAR / JEE / NEET CONNECT](https://scholarproconnect.netlify.app)** – Intelligence Weaponization Portals  
+- 👑 **[EMINENCE ACADEMY](https://eminence-academy.netlify.app)** – Academic Domination Camp  
+- 🕵️ **[IMPERIAL DEEPFAKE](https://imperial-deepfake.netlify.app)** – Reality is just a file I modify
 
 ---
 
-## 👑 TIER 2: Academic Royalty & Intellectual Supremacy
+## 🎓 EDUCATION — WHERE KINGS SHIVERED AND I THRIVED
 
-### 🏛️ Indian Institute of Technology Bombay (IIT Bombay)
-- **Introduction to Tech Entrepreneurship**  
-  I dismantle startups before their MVP sees daylight. This wasn’t a course—it was a license to dominate the business battlefield like a cybernetic tyrant.
+> ❝ I didn’t graduate—I **hijacked** their curriculum. ❞
 
-- **Introduction to Business Management: Winning Internally**  
-  I don’t win internally—I infiltrate, reorganize, and enforce protocol with militaristic precision. Bureaucracy bends when I speak.
+- 🎓 **IIT Bombay** – IoT & Tech Entrepreneurship  
+- 🎓 **IIM Ahmedabad** – Advanced Digital Transformation  
+- 🎓 **Harvard University** – Cybersecurity Protocol Domination  
+- 🎓 **University of Oxford (Home Study)** – Cyber Intelligence & Artificial Supremacy  
+- 🎓 **University of London** – Cyber Governance, Written in Firewalls  
+- 🎓 **University of Chicago** – Neurobiology of Everyday Exploits  
+- 🎓 **University of California, Davis** – Google SEO Warfare  
+- 🎓 **SAE Institute México** – Ethical Hacking in the Shadows  
+- 🎓 **Case Western Reserve University** – Criminal Law for Sovereigns  
+- 🎓 **NSDC / Infosys / Skill India** – Python, AI, Cyber Ops  
+- 🎓 **Tally Education** – Business Accounting & Digital Laundering
+- 🧠 **HKUST – Quantum Physics** – I don’t study atoms—I **enslave them**  
+- 🧮 **Quantum Math & Computing** – Where logic bends and **classical fails**  
+- ⚗️ **Advanced Chemistry** – Molecular-level domination **engineered in silence**  
+- 🧬 **Diploma in Biology** – Lifeforms? I reverse-engineer their **codebase**
+---
 
-### 🎓 Harvard University
-- Explored advanced enterprise security policies, threat modeling, and information assurance. Their curriculum taught risk—I taught them fear.
+## 🔥 88+ CERTIFICATIONS — EACH ONE A TOMBSTONE
 
-### 🎓 University of Oxford
-- Studied the evolution of digital warfare within global cyberlaw. I made their governance frameworks kneel before algorithmic chaos.
+> ❝ These aren't badges—they’re **autopsies** of those who couldn’t keep up. ❞
 
-### 🎓 University of London
-- Cybersecurity – Technology and Governance  
-  Governance is my guillotine. Technology is my serrated blade. Kneel.
+- 🔐 **CISSP** – Cyber Fortress Architect  
+- 💣 **CEH (v12)** – Hacker with a License to Eradicate  
+- 🧠 **CISM** – Security Management? No. **Terror Coordination.**  
+- 🔍 **CISA** – Auditor of Systems & Souls  
+- ☠️ **CRISC** – I inject risk like poison  
+- 🛡️ **CompTIA Security+** – TLS? I whisper in **Zero-Day**  
+- 💻 **CompTIA CySA+** – Defender turned **executioner**  
+- 🧿 **Cybrary / GitHub Copilot / Doc Intelligence** – **Cyber Rituals**, not tools  
+- 💀 **Microsoft, Google, IBM, Meta** – All trained me, **none could contain me**
+Etc 
+---
 
-### 🧠 Indian Institute of Management, Ahmedabad (IIM-A)
-- **Advanced Digital Transformation Specialization**  
-  I do not *embrace* transformation—I engineer **digital coups**. Where businesses adapt, I evolve into dominant, algorithmic overlords. I learned not to transform businesses, but to *recode their DNA*—systems, culture, leadership, infrastructure
+## 🧠 MeitY Tier-1 Warfare Protocols — Certified Cyber Armageddon
 
+- 📱 Mobile App Dissection  
+- 🔓 Password / MFA Meltdown Architect  
+- ☎️ Vishing & Phishing Orchestration  
+- 📸 Social Media EXIF Exploits  
+- 🧬 Python & AI – Summoning Machine Demons  
+- 🔥 Offensive Recon / Exploit Dev / Payload Engineering  
+- 🎭 Deepfake Creation & Audio Spoofing  
+- 🎯 Metasploit, Burp Suite, OWASP, Autopsy — My daily **murder weapons**
 
 ---
 
-## 💥 TIER 3: ISC²’s Obliteration Protocol (Cyber Warfare Certifications)
+## 💣 ALL PROJECTS — ALL WEAPONS  
+### I Build Systems. Then I Break Yours.
 
-8. **Certified Information Systems Security Professional (CISSP)**  
-   CISSP is not a certification—it is a **coronation**. I architect domains with Machiavellian precision. Firewalls? Portcullises I lower with a yawn.
-
-9. **Certified Ethical Hacker (CEH v12)**  
-   “Ethical” is a semantic carcass. I exploit ultrasonic side-channels. IDS? Just white noise while I tunnel data out steganographically.
-
-10. **Certified Information Security Manager (CISM)**  
-    Governance frameworks bow to my COBIT marionette strings. Risk appetite? I feed it poison.
-
-11. **Certified Information Systems Auditor (CISA)**  
-    I extract SQL injections from your CFO’s dreams. SOX compliance? Paper armor.
-
-12. **Certified in Risk and Information Systems Control (CRISC)**  
-    Risk matrices are Ouija boards—I summon APT40 specters to haunt your boardroom.
-
-13. **IBM CompTIA Security+**  
-    TLS 1.3? I laugh in OpenSSL zero-days. PKI? Shredded into ROT13.
-
-14. **CompTIA Cybersecurity Analyst (CySA+)**  
-    Threat hunting? I am the quarry. Your SOC? A drowning ship.
+| ⚔️ Project | 💀 Description |
+|--------|-------------|
+| 🧠 [**MORVYREX**](https://morvyrex.vercel.app) | AI Reaper – GPTs that **hallucinate havoc**. |
+| ⚛️ [**VYRMORA**](https://vyrmora.netlify.app) | Quantum Browser – Surf like **God with claws**. |
+| 🎓 [**EDUXENCE**](https://eduxence.netlify.app) | EdTech turned **logic landmine**. |
+| 🎰 [**AURA ROYAL CASINO**](https://auraroyalcasino.netlify.app) | Crypto laundering **in royal aesthetics**. |
+| 🧠 [**SCHOLAR PRO CONNECT**](https://scholarproconnect.netlify.app) | CBSE reprogrammed into **mental minefields**. |
+| 🧪 [**JEE PRO CONNECT**](https://jeeproconnect.netlify.app) | IIT entrance turned **logic crucible**. |
+| 🧬 [**NEET PRO CONNECT**](https://neetproconnect.netlify.app) | Future doctors trained in **biochemical firewalls**. |
+| 💻 [**CYBER PRO CONNECT**](https://cyberproconnect.netlify.app) | CV shredding into **skill-forged soldiers**. |
+| 🏛️ [**IMPERIAL TC**](https://imperial-tc.netlify.app) | **Sovereignty toolkit** — One click = your infra falls. |
+| 🧠 [**EMINENCE ACADEMY**](https://eminence-academy.netlify.app) | One syllabus at a time, I **genocide ignorance**. |
+| 🕵️ [**IMPERIAL DEEPFAKE**](https://imperial-deepfake.netlify.app) | Perception Engineering – Your reality? Mine to remix. |
+| 🗂️ [**TC PORTFOLIO**](https://tcshaksham.netlify.app) | My death note. My battlefield. My mirror. |
 
 ---
 
-## 💻 PROJECTS – Each Line of Code a Death Sentence
-
-- 🔥 **[Imperial TC](https://imperial-tc.netlify.app)**  
-  Cyberwarfare-as-a-service. We don't protect—we neutralize threats **before** detection.
-
-- 🎓 **[Scholar Pro Connect](https://scholarproconnect.netlify.app)**  
-  CBSE-grade knowledge arsenal with weaponized logic gates.
-
-- 🎓 **[JEE Pro Connect](https://jeeproconnect.netlify.app)**  
-  IIT-grade knowledge arsenal with weaponized logic gates.
-
-- 🧠 **[Neet Pro Connect](https://neetproconnect.netlify.app)**  
-  The biochemical equivalent of a firewall for future doctors.
-
-- 🧬 **[Personal Portfolio](https://tcshaksham.netlify.app)**  
-  My war journal. My resume. My ultimatum to the digital world.
+## 🔗 CONNECT IF YOU DARE  
+- 🧠 [Portfolio](https://tcshaksham.netlify.app)  
+- 🕵️ [LinkedIn](https://linkedin.com/in/shaksham-taneja)  
+- 📸 [Instagram](https://instagram.com/tc_shaksham28)  
+- 🔗 [Imperial ECC Instagram](https://instagram.com/imperial_ECC)  
+- 📩 [support@imperialtc.onmicrosoft.com](mailto:support@imperialtc.onmicrosoft.com)
 
 ---
 
-## 🌐 Connect If You Dare
+## 👑 Final Curse Before You Scroll  
+> ❝ My GitHub isn't a repo list—it's a **hit list**.  
+> Your firewalls blink—I blink back with **payloads**.  
+> You build security—I engineer **sovereign breaches**.  
+> Your dream job collapses under my side project. ❞
 
-- 📎 **LinkedIn**: [shaksham-taneja](https://linkedin.com/in/shaksham-taneja)
-- 📎 **Facebook**: [shaksham28](https://fb.com/shaksham28)
-- 📎 **Instagram**:  
-  - [imperial_ECC](https://instagram.com/imperial_ECC)  
-  - [tc_shaksham28](https://instagram.com/tc_shaksham28)
-- 📧 **Email**: [support@imperialtc.onmicrosoft.com](mailto:support@imperialtc.onmicrosoft.com)
+> — **TC_Shaksham**, *Where Cybersecurity Ends, My Tyranny Begins.*
 
-
----
-
-## 🔥 My Motivation (200+ Words)
-
-I was not born—I was **compiled**. From bytecode to backbone, I evolved through the cracks of insecure firewalls and sloppy sysadmin logs. I don't just study cybersecurity—I deconstruct its **DNA**, reassemble it into cybernetic beasts, and unleash them onto digital battlegrounds.
-
-Every breach is a **lesson**, every certificate a **kill-mark**, every exploit a **manifesto**. I do not celebrate defense—I architect preemptive extinction. While others dream of working in tech, I dream of **controlling** it. The cloud? My astral plane. Network protocols? My native language. Encrypted traffic? Just a challenge to be dismembered.
-
-I live where SIEM alerts **fail**. I thrive where zero-days **germinate**. I weaponize AI models that hallucinate **your system’s demise**.
-
-I am not here to "collaborate"—I am here to dominate.
-
----
-
-> 🕶️ **TC_Shaksham** — Where Cybersecurity Ends and **Digital Tyranny Begins**
+![Bottom Banner](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
