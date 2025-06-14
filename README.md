@@ -70,17 +70,188 @@
 - 💀 **Microsoft, Google, IBM, Meta** – All trained me, **none could contain me**
 Etc 
 ---
+## 🧠 Brutal Certifications & Academic Chaos
 
-## 🧠 MeitY Tier-1 Warfare Protocols — Certified Cyber Armageddon
+> ❝ I don’t collect certificates. I forge weapons. ❞
 
-- 📱 Mobile App Dissection  
-- 🔓 Password / MFA Meltdown Architect  
-- ☎️ Vishing & Phishing Orchestration  
-- 📸 Social Media EXIF Exploits  
-- 🧬 Python & AI – Summoning Machine Demons  
-- 🔥 Offensive Recon / Exploit Dev / Payload Engineering  
-- 🎭 Deepfake Creation & Audio Spoofing  
-- 🎯 Metasploit, Burp Suite, OWASP, Autopsy — My daily **murder weapons**
+---
+
+### ⚔️ Tier 1: Government & Regulatory Cybersecurity Certifications
+
+- 🛡️ **Mobile & App Security** – MeitY  
+- 🔐 **Password Security & MFA** – MeitY  
+- 🎭 **Phishing & Vishing** – MeitY  
+- 🧠 **Secure Social Media Practices** – MeitY  
+- 🧼 **Cyber Hygiene Practices** – MeitY  
+- 🐍 **Python with Advanced AI** – NSDC x Skill India  
+
+---
+
+### 🧬 Tier 2: Elite Certifications
+
+- 🧠 **Quantum Physics** – HKUST  
+- 🧠 **Quantum Math & Computer**  
+- ⚗️ **Advanced Chemistry**  
+- 🧬 **Diploma in Biology**  
+- 🧠 **Understanding the Brain** – University of Chicago  
+- 💰 **Financial Accounting & MIS** – Tally  
+- 🔒 **CISSP – Certified Information Systems Security Professional**  
+- 🛠️ **CEH – Certified Ethical Hacker (v12)**  
+- 🧨 **CISM – Certified Information Security Manager**  
+- 🧾 **CISA – Certified Information Systems Auditor**  
+- ☢️ **CRISC – Certified in Risk and Information Systems Control**  
+- ⚔️ **CompTIA Security+**  
+- ⚔️ **CompTIA CySA+**  
+- ⚔️ **CompTIA CASP+**  
+- 🔥 **GSEC – GIAC Security Essentials**  
+
+---
+
+### 🧠 Tier 3: Advanced Cybersecurity & Ethical Hacking
+
+- 🔍 **Google Cybersecurity Professional Certificate**  
+- 🔍 **Google Data Analytics Certificate**  
+- 🧠 **IBM Cybersecurity Fundamentals**  
+- 🧠 **IBM Cybersecurity Analyst Professional Certificate**  
+- ☁️ **AWS Certified Security – Specialty**  
+- 🛡️ **Azure Security Engineer Associate – Microsoft**  
+- 🧠 **IIMA Advanced Digital Transformation**  
+- 🏛️ **Cybersecurity Diploma – Oxford Home Study**  
+- 🏛️ **Cybersecurity in AI – Oxford Home Study**  
+- ⚙️ **Internet of Things – IIT Bombay**  
+- ⚙️ **Tech Entrepreneurship – IIT Bombay**  
+- 🏛️ **Cybersecurity & Governance – University of London**  
+- 🛠️ **Ethical Hacking – SAE Institute Mexico**  
+- 📈 **Google SEO – University of California, Davis**  
+
+---
+
+### ☁️ Tier 4: Cloud Security, AI & Governance
+
+- 🔐 **Microsoft Security, Compliance & Identity Fundamentals**  
+- 🔮 **Azure Solutions Architect Expert – Microsoft**  
+- 🧠 **Azure AI Security Solutions**  
+- ☁️ **AWS Cloud Practitioner**  
+- ☁️ **Google Cloud Security Engineer**  
+- ☁️ **Google Cloud Identity & Compliance**  
+- 🧬 **AI & Cybersecurity Fundamentals – Oxford**  
+- 🧬 **AI & Cybersecurity in Digital Transformation – IBM**  
+
+---
+
+### 🔪 Tier 5: Hands-On Cybersecurity
+
+- 📡 **Wireless Hacking – Cybrary**  
+- 🔥 **Network & Perimeter Hacking – Cybrary**  
+- 🌐 **Web App Hacking – Cybrary**  
+- 🎯 **Reconnaissance Techniques – Cybrary**  
+- 💀 **System Hacking Phases – Cybrary**  
+- 📘 **CISSP Prep – Cybrary**  
+- 🧠 **Diploma in Cyber Security – Alison**  
+- 🧠 **Diploma in Ethical Hacking – Alison**  
+
+---
+
+### 🧱 Tier 6: Microsoft Cybersecurity & Threat Management
+
+- 🧨 **Cybersecurity and Threats – Microsoft**  
+- ⚔️ **App-Based Threats Protection**  
+- 🧠 **Device-Based Threats & Controls**  
+- 🌐 **Network-Based Threats Mitigation**  
+- 🔑 **Authentication & Authorization**  
+- 🧬 **Cryptography Fundamentals**  
+- 🔥 **Threats, Attacks & Mitigation Concepts**  
+- 🧠 **Microsoft Entra Identity & Protection**  
+- 🛡️ **Identity Protection & Governance**  
+- 🔐 **Access Management – Entra ID**  
+- 🔑 **Authentication with Entra ID**  
+- 🧬 **Microsoft Entra ID: Functions & Types**  
+- 📘 **Microsoft Security & Compliance Fundamentals**  
+- ☣️ **Secure AI Services & Identity Management**  
+- 🔍 **CodeQL: Identify Security Vulnerabilities**  
+
+---
+
+### ⚙️ Tier 7: AI, Cloud & Cognitive Services
+
+- 🤖 **Azure AI & Cognitive Services**  
+- 🧠 **Generative AI Solutions – Azure OpenAI**  
+- 🤖 **Microsoft Copilot Studio**  
+- 🔍 **Azure AI Search – Knowledge Mining**  
+- 🧠 **Enhance Bots with Copilot Studio**  
+- 📚 **Topic Management in Copilot Studio**  
+- 🧠 **Document Intelligence Planning – Azure AI**  
+- 🧾 **Prebuilt Form Recognizer Models**  
+- 🔍 **Azure AI Search & Doc Intelligence**  
+- 🧠 **Vector Search & Retrieval – Azure AI**  
+- 🧠 **Semantic Ranking – Azure AI**  
+- ⚙️ **Advanced Search Features – Azure AI**  
+- 📘 **Azure Document Intelligence – Data Extraction**  
+
+---
+
+### 💻 Tier 8: GitHub Copilot & Advanced Security
+
+- 🤖 **GitHub Copilot & Security**  
+- 🎮 **Project: Minigame Console App**  
+- 🔐 **GitHub Advanced Security Administration**  
+- 📘 **Introduction to GitHub Copilot**  
+
+---
+
+### ☁️ Tier 9: Azure & Cloud Computing Fundamentals
+
+- ☁️ **Azure Cloud Computing Skills**  
+- 💰 **Cost Management in Azure**  
+- ☁️ **Cloud Computing Basics**  
+- 🧠 **Fundamentals of Responsible Generative AI**  
+- 🧠 **Introduction to Machine Learning**  
+
+---
+
+## 🔥 Brutal Real-World Experience
+
+### 🛡️ Chairman & Founder – Imperial Eminence Cyberguard Corporation | 2024 – Present
+- Command the fortress of cyber defense, orchestrating elite threat intelligence and automated security operations across global digital battlegrounds.  
+- Lead a covert legion of cyber warriors, crushing adversaries in the shadows with precision strikes and zero-tolerance protocols.  
+
+### 🕶️ Founder – Imperial Tenebris Cartel | 2020 – Present
+- Ruthless sovereign of an underground digital syndicate operating in the abyss of cyberspace, controlling networks with an iron fist and encrypted command.  
+- Mastermind behind covert cyber campaigns and digital dominion, blending raw power with stealth warfare to annihilate opposition.  
+
+### 🧠 Creator & Lead Developer – VYRMORA | 2025 – Present
+- Forged a browser for dark web elites—quantum-resistant cryptography, stealth ops, and ironclad privacy.  
+- Engineered AI-integrated threat analysis and proactive evasion systems.  
+
+### 🔥 Architect of Digital Vengeance – MORVYREX | 2025 – Present
+- Designed an AI executioner—encrypted rage automating cyber offense/defense with surgical brutality.  
+- Embedded machine learning to predict, counter, and annihilate vulnerabilities in real time.  
+
+### 🛡️ Lead Web Dev & Cyber Strategist – Anti Corruption Association of India | 2020 – Present
+- Fortified activist platforms with military-grade security frameworks and encrypted comms.  
+- Enabled whistleblower protection and digital resistance networks.  
+
+### 🧠 Project Commander – Strategic Cyber Platforms:
+- **EDUXENCE** – AI-led educational warfare.  
+- **Imperial Deepfake** – Deepfake detection for digital justice.  
+- **Aura Royal Casino** – Blockchain-secured online casino.  
+- **Scholar / NEET / JEE Pro Connect** – Advanced e-learning ecosystems.  
+- **Eminence Academy / Cyber Pro Connect** – Training next-gen cyber warriors.  
+- **Imperial TC / TC_Shaksham** – Personal branding and cyber dominance.  
+- **Morvyrex** – Digital executioner for offensive cyber warfare.  
+
+---
+
+## 🎮 Corporate Cyber Simulations (Forage – Blooded in Virtual Fire)
+
+- **Deloitte Australia** – Cybersecurity Breach Protocols (May 2025)  
+- **Mastercard** – Threat Intel & Security Training Ops  
+- **PwC Switzerland** – Integrated Defense Architecture Simulation  
+- **Tata Consultancy Services** – IAM Strategy & Business Alignment  
+
+---
+
+> ❝ This ain’t a résumé. It’s a battlefield map. Step on the grid, and get terminated by code. ❞
 
 ---
 
