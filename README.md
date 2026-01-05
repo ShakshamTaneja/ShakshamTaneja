@@ -26,7 +26,7 @@ My work spans **cyber defense strategy, AI execution frameworks, secure browsers
 education technology platforms, and legal-tech research models**.
 
 
-## 📘 Author
+## 📘 Author & Philosopher
 
 TC_Shaksham is the author of **_The Velvet Femdomination_**, a long-form analytical work that examines  
 **power dynamics, psychological influence, and interpersonal control mechanisms** in modern social  
