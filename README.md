@@ -25,6 +25,34 @@ I focus on building **sovereign-grade digital infrastructure** — systems desig
 My work spans **cyber defense strategy, AI execution frameworks, secure browsers,  
 education technology platforms, and legal-tech research models**.
 
+
+## 📘 Author
+
+TC_Shaksham is the author of **_The Velvet Femdomination_**, a long-form analytical work that examines  
+**power dynamics, psychological influence, and interpersonal control mechanisms** in modern social  
+and digital environments.
+
+The book is written as a **provocative socio-psychological study**, using metaphor, symbolism,  
+and adversarial framing to explore how authority, perception, and emotional leverage operate  
+beneath the surface of everyday interactions.
+
+Rather than presenting fiction or instruction, **_The Velvet Femdomination_** positions itself as:
+- Interpretive psychological analysis  
+- Behavioral pattern observation  
+- Philosophical inquiry into power, dominance, and agency  
+- A critique of modern relationship narratives and social conditioning  
+
+The writing style is intentionally confrontational and rhetorical, designed to challenge  
+assumptions and provoke critical examination rather than provide prescriptive guidance.
+
+As an author, TC_Shaksham approaches writing the same way he approaches systems engineering:  
+by deconstructing structures, exposing hidden mechanics, and forcing the reader to confront  
+uncomfortable questions about influence, control, and autonomy.
+
+The book directly informs his broader work in **cybersecurity, artificial intelligence, and digital governance**,  
+where understanding **human behavior** is treated as critically important as understanding code.
+
+
 This GitHub reflects **production thinking**, not tutorials.
 
 ---
