@@ -6,8 +6,6 @@
 
 📍 Delhi NCR, India · Operating Globally  
 🕶️ Domain: Cybersecurity · AI Systems · Governance · Secure Infrastructure  
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6568158" style='border:none;'></iframe>
-
 
 ---
 
