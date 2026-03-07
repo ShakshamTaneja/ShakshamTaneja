@@ -1,227 +1,274 @@
-# 🜏 TC_Shaksham
-### Cyber Strategist · AI Architect · Chairman, Imperial Eminence Cyberguard Corporation
+# 🜏 TC_SHAKSHAM
+### Cyber Strategist · AI Systems Architect · Legal-Tech Engineer  
+**Chairman — Imperial Eminence Cyberguard Corporation (IECC)**
 
-> ❝ I do not apply to systems.  
-> I design the frameworks they are forced to operate within. ❞
+> *“I do not petition systems for permission.  
+> I construct the frameworks that dictate how they function.”*
 
-📍 Delhi NCR, India · Operating Globally  
-🕶️ Domain: Cybersecurity · AI Systems · Governance · Secure Infrastructure  
+📍 **Operational Base:** Delhi NCR, India  
+🌍 **Operational Scope:** Global  
 
----
-
-## 🧠 ABOUT
-
-I am a **cyber strategist and systems architect** working at the intersection of  
-**security engineering, artificial intelligence, cloud governance, and digital law**.
-
-As the **Founder & Chairman of Imperial Eminence Cyberguard Corporation (IECC)**,  
-I focus on building **sovereign-grade digital infrastructure** — systems designed for:
-
-- Security by architecture (not patches)
-- Governance-aware engineering
-- Privacy-first application design
-- AI systems that operate under control, not hype
-
-My work spans **cyber defense strategy, AI execution frameworks, secure browsers,  
-education technology platforms, and legal-tech research models**.
-
-
-## 📘 Author & Philosopher
-
-TC_Shaksham is the author of **_The Velvet Femdomination_**, a long-form analytical work that examines  
-**power dynamics, psychological influence, and interpersonal control mechanisms** in modern social  
-and digital environments.
-
-The book is written as a **provocative socio-psychological study**, using metaphor, symbolism,  
-and adversarial framing to explore how authority, perception, and emotional leverage operate  
-beneath the surface of everyday interactions.
-
-Rather than presenting fiction or instruction, **_The Velvet Femdomination_** positions itself as:
-- Interpretive psychological analysis  
-- Behavioral pattern observation  
-- Philosophical inquiry into power, dominance, and agency  
-- A critique of modern relationship narratives and social conditioning  
-
-The writing style is intentionally confrontational and rhetorical, designed to challenge  
-assumptions and provoke critical examination rather than provide prescriptive guidance.
-
-As an author, TC_Shaksham approaches writing the same way he approaches systems engineering:  
-by deconstructing structures, exposing hidden mechanics, and forcing the reader to confront  
-uncomfortable questions about influence, control, and autonomy.
-
-The book directly informs his broader work in **cybersecurity, artificial intelligence, and digital governance**,  
-where understanding **human behavior** is treated as critically important as understanding code.
-
-
-This GitHub reflects **production thinking**, not tutorials.
+**Domains:** Cybersecurity · Artificial Intelligence · Digital Governance · Legal Infrastructure
 
 ---
 
-## 🏛️ CURRENT ROLES
+# 🧠 Strategic Profile
 
-### 👑 Chairman & Global Strategist  
-**Imperial Eminence Cyberguard Corporation (IECC)** · Cayman Islands (HQ)  
-*2022 – Present*
+Shaksham Taneja — operating professionally under the identity **TC_Shaksham** — is a cyber strategist and systems architect working at the intersection of **security engineering, artificial intelligence, cloud governance, and cyber law**.
 
-- Corporate governance & strategic oversight of global cyber operations  
-- AI security architecture & compliance-aligned system design  
-- Licensing, IP protection, and multi-jurisdictional structuring  
+His work focuses upon **architectural security**: designing systems where governance, intelligence, and computational infrastructure function as a coherent defensive ecosystem.
 
----
+As **Chairman of the Imperial Eminence Cyberguard Corporation (IECC)**, he leads the design of **sovereign-grade digital infrastructure**, emphasising:
 
-### ⚖ Executive Director — Legal & Strategic Operations  
-**Imperial TC** · Monaco  
-*2020 – Present*
+- security by architecture rather than reactive patching  
+- governance-aligned engineering  
+- privacy-first computational environments  
+- artificial intelligence operating under controlled frameworks  
 
-- Digital governance frameworks & legal-tech infrastructure  
-- Risk, compliance, and cross-border cyber positioning  
+This GitHub reflects **production-oriented systems thinking**, rather than tutorial exercises.
 
 ---
 
-### 🧬 Intelligence Lead — Cyber & Legal Research  
-**T.R.I.B.U.N.E.T.H.** · United States  
-*2023 – Present*
+# 🏛 Current Roles
 
-- Legal automation research  
-- Cyber law, audit intelligence & complaint structuring models  
+## 👑 Chairman & Global Strategist  
+**Imperial Eminence Cyberguard Corporation (IECC)**  
+*Cayman Islands · Present*
 
----
+Responsibilities include:
 
-### 🔮 Founder & Vision Director  
-**Sovereign VOIDREIGN – Missionary Council of Britain** · UK  
-*2025 – Present*
-
-- Non-commercial digital education & governance architecture  
-- AI-assisted learning systems (sandbox phase)
+- corporate cybersecurity strategy  
+- AI security architecture  
+- international intellectual property structuring  
+- development of sovereign digital infrastructure
 
 ---
 
-### 🧠 Lead Architect — Education Technology Platforms  
-**EDUXENCE · Scholar Pro Connect · NEET / JEE Pro Connect**  
-*2023 – Present*
+## ⚖ Executive Director — Legal & Strategic Operations  
+**Imperial TC · Monaco**
 
-- AI-powered adaptive learning systems  
-- Encrypted student identity & performance mapping  
-- Scalable exam-oriented platforms  
+Focus areas include:
 
----
-
-### 🔐 Head of DevSecOps — Privacy Engineering  
-**VYRMORA (Secure Browser Project)**  
-*2024 – Present*
-
-- Privacy-first browser architecture  
-- Encryption, session sanitization & domain isolation  
+- legal-technology infrastructure  
+- cross-border digital governance frameworks  
+- cyber-law research and compliance systems
 
 ---
 
-### ⚔ AI Systems Architect  
-**MORVYREX OS**  
-*2024 – Present*
+## 🧬 Intelligence Lead — Cyber & Legal Research  
+**T.R.I.B.U.N.E.T.H. · United States**
 
-- Secure AI execution environments  
-- Modular cybersecurity tooling & forensic automation  
+Research activities include:
 
----
-
-### 🛡 Cyber Strategist  
-**Anti-Corruption Association of India**  
-*2020 – Present*
-
-- Secure platforms, whistleblower protection & comms hardening  
+- legal automation models  
+- cyber law intelligence frameworks  
+- complaint structuring systems
 
 ---
 
-## 🎓 EDUCATION & TECHNICAL FOUNDATION  
-*(BCA · MCA · PG Cybersecurity — Completed via Global Programs)*
+## 🔮 Founder & Vision Director  
+**Sovereign VOIDREIGN – Missionary Council of Britain**
 
-### Core Computer Science
-- Core Java (OOP, JDBC, Multithreading) — LearnQuest  
-- Python (AI-Enhanced Automation & Recon) — NSDC × Skill India  
-- C / C++ (Memory Mgmt, Buffer Overflows) — Simplilearn  
-- Linux / Unix (Bash, Cron, Privilege Escalation) — Kali Linux  
-- Data Structures & Algorithms — Graphs, Trees, Queues  
-- Computer Networks — TCP/IP, ARP, OSI  
-- Operating Systems — Kernel, Threads, Deadlocks  
+An experimental non-commercial initiative exploring:
 
-### Cybersecurity & Systems
-- Secure SDLC & DevSecOps — CISSP / CEH / CISM  
-- Cryptography — RSA, AES, ECC  
-- Cloud Security — AWS, Azure, Google Cloud  
-- Web Security — SQLi, NoSQL Attacks, AppSec  
-- Cyber Law & Ethics — IT Act 2000, GDPR  
-
-### AI & Emerging Tech
-- AI in Cybersecurity — Microsoft, IBM  
-- Secure AI Models & Copilot Systems  
-- Quantum Physics — HKUST  
-- Quantum Mathematics & Computer Science — University of London  
+- AI-assisted educational governance  
+- digital knowledge systems  
+- intellectual research platforms
 
 ---
 
-## 🏛️ ACADEMIC BACKGROUND (GLOBAL)
+# ⚙ Key Systems & Technology Projects
 
-- IIT Bombay — IoT & Tech Entrepreneurship  
-- IIM Ahmedabad — Digital Transformation  
-- Harvard University — Cybersecurity  
-- University of Oxford (Home Study) — Cybersecurity, AI, Governance  
-- University of London — Cybersecurity & Quantum Studies  
-- University of Chicago — Neurobiology & Cognitive Science  
-- UC Davis — Google SEO & Digital Marketing  
-- SAE Institute México — Ethical Hacking  
-- Case Western Reserve University — International Criminal Law  
-- Alison Academy — Cybersecurity, Ethical Hacking, Biology, Chemistry  
+## ⚖ VOIDLEX — AI Legal Intelligence Platform
+
+A legal-technology engine designed for:
+
+- automated legal complaint generation  
+- cyber-law research analysis  
+- litigation documentation automation
 
 ---
 
-## 🧪 INDUSTRY SIMULATIONS
+## 🔐 VYRMORA — Privacy-First Secure Browser
 
-- Deloitte Australia — Cyber Incident Response  
-- JPMorgan Chase & Co. — Software Engineering  
-- Mastercard — Security Awareness & Threat Detection  
-- PwC Switzerland — Integrated Cyber Defense  
-- Tata Consultancy Services — IAM & Governance  
+Features include:
 
----
-
-## 🧰 WHAT YOU’LL FIND HERE
-
-- Security architecture logic  
-- AI & automation frameworks  
-- Governance-aligned engineering  
-- Production-grade system thinking  
-
-No toy projects.  
-No tutorial clutter.
+- session sanitisation  
+- domain isolation architecture  
+- encrypted browsing frameworks  
+- forensic-resistant browsing environments
 
 ---
 
-## 📬 CONTACT & CONTRACTING
+## 🧠 MORVYREX OS
 
-- 🌐 Portfolio: **https://tcshaksham.netlify.app**
-- 💼 LinkedIn: **https://linkedin.com/in/shaksham-taneja**
-- 📸 Instagram: **https://instagram.com/tc_shaksham28**
-- 🏛️ Corporate: **Imperial Eminence Cyberguard Corporation**
-- 📩 Email: **Chairman@imperialecc.com**  
-- 📩 Support: **support@imperialecc.com**
+A modular security operating environment enabling:
 
-> Contracting, consulting, research collaboration, and institutional inquiries only.
+- forensic automation  
+- cybersecurity tooling  
+- AI-assisted security analysis
 
 ---
 
-## 🜏 FINAL NOTE
+## 🧠 EDUXENCE Education Infrastructure
 
-> ❝ This GitHub is not a résumé.  
-> It is a capability ledger.  
->  
-> Read accordingly. ❞
-> 🔏 P.S. – Official Statement & Legal Clarification
-Note: Some certification titles and credential terminologies listed herein may vary across issuing platforms due to institutional
-naming conventions, digital transcript formatting, or modular bundling (e.g., course + specialization).
-All certifications have been individually completed, verified, and archived, and their collective listing reflects the full
-academic scope attained by TC_Shaksham.
-Disclaimer: The digital infrastructure, platforms, missionary entities, and websites mentioned in this document — including but
-not limited to Sovereign VOIDREIGN – Missionary Council of Britain — are currently operating under digital spiritual
-outreach and non-commercial objectives i.e.: sandbox entities .
-Legal registration will commence upon initiation of operational services, and shall not be considered active under any
-commercial or for-profit designation during the current digital non-commercial phase.
+Platforms developed within the ecosystem:
+
+- **EDUXENCE**
+- **Scholar Pro Connect**
+- **Cyber Pro Connect**
+- **NEET / JEE Pro Connect**
+
+Core features:
+
+- AI-adaptive learning systems  
+- encrypted student identity frameworks  
+- performance analytics infrastructure
+
+---
+
+# 🎓 Global Academic Institutions
+
+Programmes and certifications completed across international universities.
+
+### United Kingdom
+- University of Cambridge  
+- University of Oxford  
+- University of London  
+
+### United States
+- Harvard University  
+- Carnegie Mellon University  
+- Case Western Reserve University  
+- University of California, Davis  
+- University of Illinois Urbana-Champaign  
+- University of Chicago  
+- University of Colorado Boulder  
+
+### India
+- Indian Institute of Science (IISc)  
+- Indian Institute of Technology Bombay  
+- Indian Institute of Technology Guwahati  
+- Indian Institute of Management Ahmedabad  
+- Birla Institute of Technology and Science, Pilani  
+
+### Asia
+- Hong Kong University of Science and Technology  
+- University of Tokyo  
+
+### Europe
+- University of Geneva  
+
+---
+
+# 🧪 Tactical Engagements & Simulations
+
+Professional experience programmes completed through **Forage virtual internships and industry simulations**.
+
+---
+
+## ⚖ Legal & Forensic Domain
+
+**Clifford Chance — Cyber Security Global Virtual Internship**  
+Analysed data breach scenarios, assessed legal exposure following data leaks, and evaluated strategic responses to ICO dawn-raid investigations.
+
+**Slaughter and May — Commercial Law Simulation**  
+Demonstrated commercial awareness, reviewed Heads of Terms agreements, and prepared client-focused legal strategies.
+
+**White & Case — UK Commercial Law Programme**  
+Studied project finance structures, banking law, and arbitration frameworks.
+
+**Baker McKenzie — Corporate Law Simulation**  
+Planned cross-border IPO structures and assisted in corporate transaction negotiations.
+
+**Freshfields — Private Capital Simulation**  
+Reviewed data room documentation and coordinated internal transaction memoranda.
+
+**Latham & Watkins — Antitrust & Competition Law Simulation**  
+Analysed merger review documents and assessed antitrust implications.
+
+**EY — Forensic & Integrity Services Simulation**  
+Investigated fraud scenarios, analysed whistleblower complaints, and reviewed financial evidence.
+
+---
+
+## ⚙ Technology & Cybersecurity Domain
+
+**JPMorgan Chase — Software Engineering Simulation**  
+Developed backend infrastructure including Kafka integration, H2 database configuration, and REST API architecture.
+
+**Citi — Software Development Simulation**  
+Designed system state diagrams, drafted feature proposals, and implemented data visualisation systems.
+
+**Amazon Web Services — Solutions Architecture Simulation**  
+Designed scalable cloud hosting architecture.
+
+**PwC — Cybersecurity Simulation**  
+Conducted enterprise risk assessments and network segmentation analysis.
+
+**Deloitte — Cybersecurity Simulation**  
+Evaluated security posture and analysed enterprise threat scenarios.
+
+**Mastercard — Cybersecurity Simulation**  
+Designed phishing attack simulations and analysed campaign results.
+
+**NSW Government — Digital Transformation Simulation**  
+Evaluated ICT policy frameworks and digital government service design.
+
+---
+
+## 💰 Financial Domain
+
+**Goldman Sachs — Risk Management Simulation**  
+Evaluated client investment risk profiles and risk mitigation strategies.
+
+**Bank of America — Global Markets Sales & Trading Simulation**  
+Generated market insight reports and client-focused product recommendations.
+
+**KPMG — Audit Simulation**  
+Conducted audit planning and applied revenue analytics testing.
+
+---
+
+# 🧰 Professional Learning Providers
+
+Courses and technical programmes delivered through:
+
+- Cisco  
+- Pearson  
+- Infosys  
+- Coursera  
+- Alison  
+- Packt  
+- LearnQuest  
+- Simplilearn  
+- Board Infinity  
+
+---
+
+# 📬 Contact & Collaboration
+
+🌐 Portfolio  
+https://tcshaksham.imperialecc.com
+
+💼 LinkedIn  
+https://linkedin.com/in/shaksham-taneja  
+
+📸 Instagram  
+https://instagram.com/tc_shaksham28  
+
+🏛 Corporate  
+Imperial Eminence Cyberguard Corporation  
+
+📩 Chairman  
+Chairman@imperialecc.com  
+
+📩 Support  
+support@imperialecc.com  
+
+---
+
+# 🜏 Final Statement
+
+> *“This repository is not a résumé.  
+> It is a ledger of capability.”*
