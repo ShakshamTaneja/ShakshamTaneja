@@ -1,274 +1,198 @@
-# 🜏 TC_SHAKSHAM
-### Cyber Strategist · AI Systems Architect · Legal-Tech Engineer  
-**Chairman — Imperial Eminence Cyberguard Corporation (IECC)**
+<div align="center">
+
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ffe7&height=120&section=header&animation=fadeIn" />
+
+<!-- IDENTITY -->
+<h1 style="font-family: monospace; letter-spacing: 6px; font-size: 2.4rem;">
+  TC_SHAKSHAM
+</h1>
+
+<!-- ANIMATED TYPING -->
+<a href="https://github.com/ShakshamTaneja">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00FFE7&center=true&vCenter=true&width=600&lines=Cybersecurity+Strategist+%26+AI+Architect;Chairman+%40+Imperial+Eminence+Cyberguard;Building+Systems+That+Govern+Systems;Security+by+Architecture+%E2%80%94+Not+Reaction" alt="Typing SVG" />
+</a>
+
+<br/>
 
-> *“I do not petition systems for permission.  
-> I construct the frameworks that dictate how they function.”*
+<!-- SOCIAL BADGES -->
+<a href="https://tcshaksham.imperialecc.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-tcshaksham.imperialecc.com-00ffe7?style=for-the-badge&logo=firefox&logoColor=00ffe7&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="mailto:Chairman@imperialecc.com">
+  <img src="https://img.shields.io/badge/Email-Chairman@imperialecc.com-00ffe7?style=for-the-badge&logo=gmail&logoColor=00ffe7&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/ShakshamTaneja">
+  <img src="https://img.shields.io/badge/GitHub-ShakshamTaneja-00ffe7?style=for-the-badge&logo=github&logoColor=00ffe7&labelColor=0d1117" />
+</a>
 
-📍 **Operational Base:** Delhi NCR, India  
-🌍 **Operational Scope:** Global  
+<br/><br/>
 
-**Domains:** Cybersecurity · Artificial Intelligence · Digital Governance · Legal Infrastructure
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
 
----
+</div>
 
-# 🧠 Strategic Profile
+<br/>
 
-Shaksham Taneja — operating professionally under the identity **TC_Shaksham** — is a cyber strategist and systems architect working at the intersection of **security engineering, artificial intelligence, cloud governance, and cyber law**.
+## `> IDENTITY`
 
-His work focuses upon **architectural security**: designing systems where governance, intelligence, and computational infrastructure function as a coherent defensive ecosystem.
+```
+╔══════════════════════════════════════════════════════════════╗
+║  OPERATOR     ::  Shaksham Taneja  [TC_Shaksham]            ║
+║  CLEARANCE    ::  CHAIRMAN — Imperial Eminence Cyberguard   ║
+║  BASE         ::  Delhi NCR, India  //  Global Ops Scope    ║
+║  DIRECTIVE    ::  "I construct the frameworks that dictate  ║
+║                    how systems function."                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-As **Chairman of the Imperial Eminence Cyberguard Corporation (IECC)**, he leads the design of **sovereign-grade digital infrastructure**, emphasising:
+I operate at the intersection of **security engineering**, **AI systems architecture**, and **digital governance**. My approach: security should be structural — built into the architecture, not patched on top of it.
 
-- security by architecture rather than reactive patching  
-- governance-aligned engineering  
-- privacy-first computational environments  
-- artificial intelligence operating under controlled frameworks  
+<br/>
 
-This GitHub reflects **production-oriented systems thinking**, rather than tutorial exercises.
+## `> ACTIVE SYSTEMS`
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# 🏛 Current Roles
+### VYRMORA
+**Privacy-Focused Secure Browser**
+> A browser engineered for operational security. Isolation-first architecture, threat-aware by design.
+> `privacy` `browser-security` `architecture`
 
-## 👑 Chairman & Global Strategist  
-**Imperial Eminence Cyberguard Corporation (IECC)**  
-*Cayman Islands · Present*
+</td>
+<td width="50%" valign="top">
 
-Responsibilities include:
+### VOIDLEX
+**AI Legal Intelligence Platform**
+> Automated legal research and intelligence extraction. Deployed at [voidlex.imperialecc.com](https://voidlex.imperialecc.com)
+> `AI` `legal-tech` `automation`
 
-- corporate cybersecurity strategy  
-- AI security architecture  
-- international intellectual property structuring  
-- development of sovereign digital infrastructure
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### MORVYREX OS
+**Security Operating Environment**
+> A purpose-built OS environment for secure, air-gapped operational contexts.
+> `OS` `security` `infrastructure`
 
-## ⚖ Executive Director — Legal & Strategic Operations  
-**Imperial TC · Monaco**
+</td>
+<td width="50%" valign="top">
 
-Focus areas include:
+### NEON-SIGIL-ENGINE
+**Gesture-Spatial Interface**
+> Real-time hand gesture → luminous vector drawing. Dual-hand spatial interaction in the browser.
+> `javascript` `computer-vision` `WebGL`
 
-- legal-technology infrastructure  
-- cross-border digital governance frameworks  
-- cyber-law research and compliance systems
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### EDUXENCE
+**Educational Governance Infrastructure**
+> Scalable education platform with governance-aligned architecture.
+> `edtech` `infrastructure` `governance`
 
-## 🧬 Intelligence Lead — Cyber & Legal Research  
-**T.R.I.B.U.N.E.T.H. · United States**
+</td>
+<td width="50%" valign="top">
 
-Research activities include:
+### IECC
+**Imperial Eminence Cyberguard Corp.**
+> Cybersecurity & AI security strategy firm. Cayman Islands, global operational scope.
+> `organization` `cyber-strategy` `AI-governance`
 
-- legal automation models  
-- cyber law intelligence frameworks  
-- complaint structuring systems
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 🔮 Founder & Vision Director  
-**Sovereign VOIDREIGN – Missionary Council of Britain**
+## `> TECH STACK`
 
-An experimental non-commercial initiative exploring:
+<div align="center">
 
-- AI-assisted educational governance  
-- digital knowledge systems  
-- intellectual research platforms
+**Languages & Runtimes**
 
----
+[![Skill Icons](https://skillicons.dev/icons?i=js,ts,python,nodejs&theme=dark)](https://skillicons.dev)
 
-# ⚙ Key Systems & Technology Projects
+**Security & Infrastructure**
 
-## ⚖ VOIDLEX — AI Legal Intelligence Platform
+[![Skill Icons](https://skillicons.dev/icons?i=linux,bash,docker,git&theme=dark)](https://skillicons.dev)
 
-A legal-technology engine designed for:
+**Build & Web**
 
-- automated legal complaint generation  
-- cyber-law research analysis  
-- litigation documentation automation
+[![Skill Icons](https://skillicons.dev/icons?i=html,css,react,vscode&theme=dark)](https://skillicons.dev)
 
----
+</div>
 
-## 🔐 VYRMORA — Privacy-First Secure Browser
+<br/>
 
-Features include:
+## `> METRICS`
 
-- session sanitisation  
-- domain isolation architecture  
-- encrypted browsing frameworks  
-- forensic-resistant browsing environments
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=ShakshamTaneja&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ffe7&icon_color=00ffe7&title_color=00ffe7&text_color=c9d1d9&hide_border=false&count_private=true" height="165" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakshamTaneja&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ffe7&title_color=00ffe7&text_color=c9d1d9" height="165" />
 
-## 🧠 MORVYREX OS
+<br/><br/>
 
-A modular security operating environment enabling:
+<img src="https://streak-stats.demolab.com?user=ShakshamTaneja&theme=dark&background=0d1117&border=00ffe7&stroke=00ffe7&ring=00ffe7&fire=ff6b35&currStreakNum=00ffe7&sideNums=c9d1d9&currStreakLabel=00ffe7&sideLabels=c9d1d9&dates=6e7681" />
 
-- forensic automation  
-- cybersecurity tooling  
-- AI-assisted security analysis
+</div>
 
----
+<br/>
 
-## 🧠 EDUXENCE Education Infrastructure
+## `> PINNED REPOS`
 
-Platforms developed within the ecosystem:
+<div align="center">
 
-- **EDUXENCE**
-- **Scholar Pro Connect**
-- **Cyber Pro Connect**
-- **NEET / JEE Pro Connect**
+[![NEON-SIGIL-ENGINE](https://github-readme-stats.vercel.app/api/pin/?username=ShakshamTaneja&repo=NEON-SIGIL-ENGINE&theme=chartreuse-dark&bg_color=0d1117&border_color=00ffe7&title_color=00ffe7&text_color=c9d1d9&icon_color=00ffe7)](https://github.com/ShakshamTaneja/NEON-SIGIL-ENGINE)
+&nbsp;
+[![For-openai](https://github-readme-stats.vercel.app/api/pin/?username=ShakshamTaneja&repo=For-openai&theme=chartreuse-dark&bg_color=0d1117&border_color=00ffe7&title_color=00ffe7&text_color=c9d1d9&icon_color=00ffe7)](https://github.com/ShakshamTaneja/For-openai)
 
-Core features:
+</div>
 
-- AI-adaptive learning systems  
-- encrypted student identity frameworks  
-- performance analytics infrastructure
+<br/>
 
----
+## `> ORGANIZATIONS`
 
-# 🎓 Global Academic Institutions
+| Organization | Role | Domain |
+|---|---|---|
+| **Imperial Eminence Cyberguard Corp.** | Chairman & Global Strategist | Cybersecurity · AI Security |
+| **Imperial TC** | Executive Director, Legal & Strategic Ops | Legal-Tech Infrastructure |
+| **T.R.I.B.U.N.E.T.H.** | Intelligence Lead, Cyber & Legal Research | Cyber Law · Research |
+| **Sovereign VOIDREIGN** | Founder | Educational Governance |
 
-Programmes and certifications completed across international universities.
+<br/>
 
-### United Kingdom
-- University of Cambridge  
-- University of Oxford  
-- University of London  
+## `> CONTACT`
 
-### United States
-- Harvard University  
-- Carnegie Mellon University  
-- Case Western Reserve University  
-- University of California, Davis  
-- University of Illinois Urbana-Champaign  
-- University of Chicago  
-- University of Colorado Boulder  
+<div align="center">
 
-### India
-- Indian Institute of Science (IISc)  
-- Indian Institute of Technology Bombay  
-- Indian Institute of Technology Guwahati  
-- Indian Institute of Management Ahmedabad  
-- Birla Institute of Technology and Science, Pilani  
+```
+For strategic engagements, research collaboration, or intelligence inquiries:
 
-### Asia
-- Hong Kong University of Science and Technology  
-- University of Tokyo  
+  EMAIL    →   Chairman@imperialecc.com
+  WEB      →   tcshaksham.imperialecc.com
+  GITHUB   →   github.com/ShakshamTaneja
+```
 
-### Europe
-- University of Geneva  
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=ShakshamTaneja&style=for-the-badge&color=00ffe7&label=PROFILE+VIEWS&base=500" />
 
-# 🧪 Tactical Engagements & Simulations
+</div>
 
-Professional experience programmes completed through **Forage virtual internships and industry simulations**.
+<br/>
 
----
-
-## ⚖ Legal & Forensic Domain
-
-**Clifford Chance — Cyber Security Global Virtual Internship**  
-Analysed data breach scenarios, assessed legal exposure following data leaks, and evaluated strategic responses to ICO dawn-raid investigations.
-
-**Slaughter and May — Commercial Law Simulation**  
-Demonstrated commercial awareness, reviewed Heads of Terms agreements, and prepared client-focused legal strategies.
-
-**White & Case — UK Commercial Law Programme**  
-Studied project finance structures, banking law, and arbitration frameworks.
-
-**Baker McKenzie — Corporate Law Simulation**  
-Planned cross-border IPO structures and assisted in corporate transaction negotiations.
-
-**Freshfields — Private Capital Simulation**  
-Reviewed data room documentation and coordinated internal transaction memoranda.
-
-**Latham & Watkins — Antitrust & Competition Law Simulation**  
-Analysed merger review documents and assessed antitrust implications.
-
-**EY — Forensic & Integrity Services Simulation**  
-Investigated fraud scenarios, analysed whistleblower complaints, and reviewed financial evidence.
-
----
-
-## ⚙ Technology & Cybersecurity Domain
-
-**JPMorgan Chase — Software Engineering Simulation**  
-Developed backend infrastructure including Kafka integration, H2 database configuration, and REST API architecture.
-
-**Citi — Software Development Simulation**  
-Designed system state diagrams, drafted feature proposals, and implemented data visualisation systems.
-
-**Amazon Web Services — Solutions Architecture Simulation**  
-Designed scalable cloud hosting architecture.
-
-**PwC — Cybersecurity Simulation**  
-Conducted enterprise risk assessments and network segmentation analysis.
-
-**Deloitte — Cybersecurity Simulation**  
-Evaluated security posture and analysed enterprise threat scenarios.
-
-**Mastercard — Cybersecurity Simulation**  
-Designed phishing attack simulations and analysed campaign results.
-
-**NSW Government — Digital Transformation Simulation**  
-Evaluated ICT policy frameworks and digital government service design.
-
----
-
-## 💰 Financial Domain
-
-**Goldman Sachs — Risk Management Simulation**  
-Evaluated client investment risk profiles and risk mitigation strategies.
-
-**Bank of America — Global Markets Sales & Trading Simulation**  
-Generated market insight reports and client-focused product recommendations.
-
-**KPMG — Audit Simulation**  
-Conducted audit planning and applied revenue analytics testing.
-
----
-
-# 🧰 Professional Learning Providers
-
-Courses and technical programmes delivered through:
-
-- Cisco  
-- Pearson  
-- Infosys  
-- Coursera  
-- Alison  
-- Packt  
-- LearnQuest  
-- Simplilearn  
-- Board Infinity  
-
----
-
-# 📬 Contact & Collaboration
-
-🌐 Portfolio  
-https://tcshaksham.imperialecc.com
-
-💼 LinkedIn  
-https://linkedin.com/in/shaksham-taneja  
-
-📸 Instagram  
-https://instagram.com/tc_shaksham28  
-
-🏛 Corporate  
-Imperial Eminence Cyberguard Corporation  
-
-📩 Chairman  
-Chairman@imperialecc.com  
-
-📩 Support  
-support@imperialecc.com  
-
----
-
-# 🜏 Final Statement
-
-> *“This repository is not a résumé.  
-> It is a ledger of capability.”*
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe7,50:0d1117,100:000000&height=80&section=footer" />
+</div>
