@@ -1,169 +1,141 @@
 <div align="center">
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=15&duration=3500&pause=1200&color=C9A84C&center=true&vCenter=true&repeat=true&width=600&height=24&weight=500&lines=Founder+%26+Chairman%2C+Imperial+Eminence+Cyberguard;Cybersecurity+%C2%B7+Applied+AI+%C2%B7+Cyber+Law+%C2%B7+EdTech;Every+claim+below+is+published%2C+dated%2C+and+verifiable." />
-
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0B0B0C,50:2B2417,100:0B0B0C&customColorList=12&section=header" width="100%"/>
 
 # Shaksham Taneja
 
-<sub>&nbsp;T C _ S H A K S H A M&nbsp;</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=1400&color=C9A84C&center=true&vCenter=true&repeat=true&width=560&height=22&lines=Retrieval+hit%401+97.3%25+%C2%B7+confidence-gate+F1+98.4%25;Every+claim+below+is+published%2C+dated%2C+and+verifiable;Ownership+cryptographically+timestamped+on+Bitcoin" />
 
-<br>
+<sub>TC_SHAKSHAM &nbsp;·&nbsp; also known as tc_shaksham, tc shaksham, tcshaksham, Saksham Taneja</sub>
 
-![](https://img.shields.io/badge/-FOUNDER%20%26%20CHAIRMAN-C9A84C?style=flat-square&labelColor=1C1710&color=1C1710)
-&nbsp;
-![](https://img.shields.io/badge/-IMPERIAL%20EMINENCE%20CYBERGUARD%20CORPORATION-C9A84C?style=flat-square&labelColor=1C1710&color=1C1710)
+**Founder & Lead Systems Engineer, Imperial Eminence Cyberguard Corporation**
+<br>Meerut · Delhi NCR · India &nbsp;·&nbsp; Class of 2027
 
-<br><br>
-
-[Portfolio](https://tcshaksham.imperialecc.com) &nbsp;·&nbsp; [Research](https://research.imperialecc.com) &nbsp;·&nbsp; [Ownership Registry](https://copyright.imperialecc.com) &nbsp;·&nbsp; [Contact](mailto:chairman@imperialecc.com)
-
-<br>
+[Portfolio](https://tcshaksham.imperialecc.com) · [Research](https://research.imperialecc.com) · [Ownership Registry](https://copyright.imperialecc.com) · [LinkedIn](https://www.linkedin.com/in/tcshaksham) · [Instagram](https://www.instagram.com/tc2sk/) · [Email](mailto:tcshaksham@imperialecc.com)
 
 </div>
 
 ---
 
-<br>
+Software engineer working across cybersecurity, applied AI, and systems architecture — building for operational environments where reliability isn't optional, and publishing reproducible empirical evaluations of every system I ship. Everything below is either live, independently referenced, or backed by a published paper and raw dataset.
 
-> *"Architectural resilience of public systems."*
+## Deployed systems & active research
 
-<br>
+### I. Teacher ONE — *Curriculum-Grounded Instructional Architecture*
+`Deployed · Empirically Audited`
 
-I build systems at the intersection of cybersecurity, applied AI, and law — and I publish the evidence for everything I build. No claim on this page is unverifiable: every product links to a live research paper, a raw benchmark, or a Bitcoin-timestamped proof of authorship.
+A thirty-module educational platform for CBSE Class 10 and 12, with 101 custom interactive structural diagrams. Built around a pre-generative retrieval engine that refuses out-of-syllabus queries rather than producing ungrounded explanations.
 
-<br>
+Retrieval hit@1 **0.9733** across 9,226 indexed passages · confidence-gate F1 **0.9836** · cold-start latency **455 ms** · unanswerable-query refusal **0.0% → 100.0%** under controlled A/B trial (McNemar exact test p = 3.1×10⁻⁵).
 
----
+`Electron` `Next.js` `Python` `BM25 Retrieval` `Local Inference Engine` `Confidence Gate`
 
-<br>
+[Live platform →](https://teacher.imperialecc.com) · [Working paper →](https://research.imperialecc.com/teacher)
 
-<div align="center">
+### II. CliniqueX & NOX MED — *Clinical Operations & Radiological Informatics*
+`Deployed · Active Production Use`
 
-### Currently building
+A unified clinical management platform operating in a working diagnostic practice in Meerut — patient registration, itemized billing, clinical routing, imaging queues, and financial auditing. NOX MED extends the system into structured radiological reporting with speech-assisted documentation and AI-supported image analysis.
 
-</div>
+Independently verified in signed documentation from the practice's consultant radiologist (in full below).
 
-<br>
+`Clinical Informatics` `Financial Auditing` `Imaging Queues` `Structured Reporting`
 
-**[Teacher ONE](https://teacher.imperialecc.com)** — a retrieval-grounded learning system for CBSE students, built to say "I don't know" rather than guess. 1,100-item paired benchmark, 97.3% retrieval hit@1, four published working papers.
-&nbsp;·&nbsp; [Live](https://teacher.imperialecc.com) &nbsp;·&nbsp; [Research](https://research.imperialecc.com/teacher)
+### III. The Ivory Index — *Admissions Intelligence Platform*
+`System Monograph & Software Engine`
 
-**[The Ivory Index](https://aoarose.com)** — a fully offline admissions-intelligence suite, 27 modules over a 1,073-institution database, engineered under AOArose, IECC's research division.
-&nbsp;·&nbsp; [Live](https://aoarose.com) &nbsp;·&nbsp; [Research](https://research.imperialecc.com/ivory-index)
+An offline desktop application for university admissions: a 1,073-university relational database paired with on-device model inference across 27 analytical modules — institutional matching, essay diagnostics, financial aid evaluation, interview preparation, and visa compliance simulation. Accompanied by an eighteen-section policy monograph on market asymmetry in elite admissions.
 
-**BUDDY** — an offline, emotionally-reactive AI companion. A 187-item blind evaluation, including a verbosity-bias finding that fabricated a 3.3-point capability gap in the judge itself.
-&nbsp;·&nbsp; [Research](https://research.imperialecc.com/buddy)
+`Electron` `Vite` `Client-Side LLM` `Privacy-Preserving` `27 Modules`
 
-**Cyber** — IECC's ongoing security research programme: threat research, AI governance, and digital-policy analysis.
-&nbsp;·&nbsp; [Research](https://research.imperialecc.com/cyber)
+[Live site →](https://aoarose.com) · [Policy monograph →](https://research.imperialecc.com/ivory-index)
 
-<br>
+### IV. BUDDY — *The Emotional Intelligence Layer*
+`Research Prototype · Under Development · Expected Q2 2027`
 
-<sub>Full portfolio — including R&D-stage projects, legacy work, and departments, each independently timestamped — at&nbsp;</sub>**[copyright.imperialecc.com](https://copyright.imperialecc.com)**
+An offline, emotionally-reactive conversational AI running entirely on-device via Ollama, built around a hand-authored emotional-intelligence persona layer rather than a generic assistant register. Evaluated in a 187-item blind study against an identical unconditioned baseline.
 
-<br>
+Human-likeness **8.85/10** vs 1.20 baseline · emotional intelligence **7.51/10** vs 1.77 baseline · technical-correctness cost **−0.15 points** once a verbosity-bias artifact in the judging rubric was corrected — full methodology and raw per-item logs published.
 
----
+`Ollama` `Persona Conditioning` `Blind Evaluation` `Offline Inference`
 
-<br>
+[Research →](https://research.imperialecc.com/buddy)
 
-<div align="center">
+### V. Anti-Corruption Association of India — *Public Institutional Web Platform*
+`Live · Production Infrastructure`
 
-### Proof, not portfolio copy
+Official web infrastructure for a registered national anti-corruption organisation. Full technical responsibility for frontend architecture, hosting infrastructure, DNS configuration, deployment management, and security protocols. Independently certified by the organisation's Executive Secretariat.
 
-</div>
+`Frontend Architecture` `Cloud Hosting` `DNS` `Security`
 
-<br>
+[Live →](https://abbusindia.com)
 
-| | |
-|:--|:--|
-| **Research** | Four working papers — Teacher ONE, The Ivory Index, BUDDY, Cyber — every raw dataset published alongside the claims it supports. |
-| **Ownership** | Every product, service, and department I've built is hashed and timestamped on the Bitcoin blockchain via OpenTimestamps — verifiable by anyone, trusting no one, including me. |
-| **Open showcase** | [teacher-one](https://github.com/ShakshamTaneja/teacher-one) — real generated output, real screenshots, real exported PDFs, no source code, no mockups. |
+## Research & benchmark reports
 
-<br>
+**Beyond the Syllabus Boundary** — *Retrieval-Grounded, Integrity-Preserving Instruction for Secondary Curricula*, Working Paper v2.1. Names *boundary truncation* as a distinct failure mode of examination-aligned instruction and details an architecture subordinating generation to retrieval under a pre-generative confidence gate. 9,226 indexed passages · 102 atlas entries · 34 citations · 9 pages.
 
----
+**Teacher ONE: Four-Suite Evaluation Report** — retrieval precision, gate calibration, runtime latency, and a controlled A/B trial, seed 20260802, SHA-256-hashed corpus. Documents its own limitations openly, including an 83.3% refusal rate on answerable edge-case queries under conservative gate calibration.
 
-<br>
+Four working papers in total — Teacher ONE, The Ivory Index, BUDDY, Cyber — every raw dataset published alongside the claims it supports, at **[research.imperialecc.com](https://research.imperialecc.com)**.
 
-<div align="center">
+## Verified references
 
-### Credentials
+> "Mr. Taneja successfully designed and completed CliniqueX, a clinic management platform that has been developed to support patient registration, billing, clinical workflow management, imaging queues, and financial reporting within a unified system... a thoughtful understanding of practical healthcare operations and an ability to translate those requirements into reliable software."
+>
+> — **Dr Manjeet Singh, M.D. (RD)**, Consultant Radiologist, Diagnostic Practice, Meerut
 
-<br>
+Certification also on file from the **Anti-Corruption Association of India's Executive Secretariat**, confirming full responsibility for the architectural design, engineering, hosting, DNS configuration, and security implementation of the organisation's public web platform.
 
-<sub>ACADEMIA</sub>
+Full signed references: **[tcshaksham.imperialecc.com/recommendations.html](https://tcshaksham.imperialecc.com/recommendations.html)**
 
-![Harvard](https://img.shields.io/badge/Harvard-1C1710?style=flat-square) ![Oxford](https://img.shields.io/badge/Oxford-1C1710?style=flat-square) ![Cambridge](https://img.shields.io/badge/Cambridge-1C1710?style=flat-square) ![Stanford](https://img.shields.io/badge/Stanford-1C1710?style=flat-square) ![IISc](https://img.shields.io/badge/IISc-1C1710?style=flat-square) ![Google](https://img.shields.io/badge/Google-1C1710?style=flat-square) ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-1C1710?style=flat-square)
+## Ownership, cryptographically verified
 
-<sub>INDUSTRY</sub>
+Every product, service, and department listed here is hashed (SHA-256) and timestamped on the Bitcoin blockchain via OpenTimestamps — verifiable by anyone, trusting no one, including me. Full registry, legacy projects, and departments not listed above: **[copyright.imperialecc.com](https://copyright.imperialecc.com)**
 
-![Clifford Chance](https://img.shields.io/badge/Clifford_Chance-1C1710?style=flat-square) ![JPMorgan](https://img.shields.io/badge/JPMorgan-1C1710?style=flat-square) ![Goldman Sachs](https://img.shields.io/badge/Goldman_Sachs-1C1710?style=flat-square) ![Deloitte](https://img.shields.io/badge/Deloitte-1C1710?style=flat-square) ![PwC](https://img.shields.io/badge/PwC-1C1710?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-1C1710?style=flat-square)
+## Credentials
 
-<br>
+167 verified credentials — 146 courses, 21 specializations — completed via Coursera, edX, and accredited university platforms.
 
-<sub>167 verified credentials &nbsp;·&nbsp; 146 courses &nbsp;·&nbsp; 21 specializations</sub>
+**Academia** — Harvard University, University of Oxford (Saïd Business School), University of Cambridge, Stanford University, IISc Bangalore, Google, DeepLearning.AI
+**Industry** — Clifford Chance, JPMorgan, Goldman Sachs, Deloitte, PwC, AWS, Pearson, Infosec
 
-</div>
+Full transcript with individual verification IDs: **[tcshaksham.imperialecc.com/academic-intelligence.html](https://tcshaksham.imperialecc.com/academic-intelligence.html)**
 
-<br>
+## Education
 
----
+**St John's School, Meerut** — Class 12, Commerce · Expected Graduation May 2027. Independent concentration in software engineering and web application architecture.
 
-<br>
+**Independent Curricular Study** — approximately 150 self-paced courses in cybersecurity, artificial intelligence systems, and technology policy, completed independently of secondary school requirements. Coursework includes modules aligned with Harvard CS50 Cybersecurity, MeitY digital literacy initiatives, and industry case simulations in risk advisory and technology law.
 
-<div align="center">
+**Academic Competitions & Olympiad Distinction** *(2015–2023, official certifications)*
 
-### Stack
+- **International Mathematics Olympiad (IMO 2018/19)** — School Rank 1 (First Position in School), Roll No. UP0694-04-A-001, Science Olympiad Foundation.
+- **International Olympiad of Mathematics 2016 (IOM)** — Class Rank 1 (First Position in Class), Enrollment No. M14107002A07 (Reg. Serial No. 1972, School Code 14107), Silverzone Foundation.
+- **St John's Spell Bee Competition (2015)** — First Position (First Place Winner), St John's Senior Secondary School.
+- **Oxford STAR Assessment (2019/20)** — Standardized Test for Assessment and Review, administered by Oxford University Press India (a department of the University of Oxford).
+- **The Sophian Tech Odyssey (October 2023)** — Runner-Up (Second Place), Creation'd Applications: App Development Competition, Sophia Girls' School, Meerut Cantt.
 
-<br>
+<sub>These honors and olympiad awards are physical certificates and trophies. Physical verification copies may be requested via email correspondence at legal@imperialecc.com, as digital e-copies are not issued for these honors.</sub>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,postgres,linux,git&theme=light&perline=8"/>
+## Leadership
 
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### Leadership
-
-<br>
-
-**Founder & Chairman** — Imperial Eminence Cyberguard Corporation (IECC)
-
-**Cyber Ambassador** — Anti-Corruption Association of India · built &amp; operate their [digital infrastructure](https://abbusindia.com)
-
+**Founder & Lead Systems Engineer** — Imperial Eminence Cyberguard Corporation (IECC)
+**Cyber Security Ambassador & Web Architect** — Anti-Corruption Association of India
 **Founder & Organizer** — Imperial Technology Consortium (ITC)
 
-<br>
+---
 
-</div>
+> **Legal & Institutional Notice:** Physical award transcripts, competition verification documentation, and official administrative claims may be formally solicited via academic correspondence directed to legal@imperialecc.com, subject to institutional verification procedures. Credentials, executive certificates, and simulated case studies enumerated within the Academic Intelligence repository denote the completion of non-degree online coursework and professional development modules delivered via third-party educational platforms. Enumeration of institutional titles, university designations, or corporate trademarks does not imply formal degree matriculation, direct employment, or institutional endorsement by the respective governing bodies.
 
 ---
 
-<br>
-
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ShakshamTaneja&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A84C&icon_color=C9A84C&text_color=8A8A8A&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakshamTaneja&layout=compact&hide_border=true&bg_color=00000000&title_color=C9A84C&text_color=8A8A8A&langs_count=6"/>
-
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=ShakshamTaneja&color=C9A84C&style=flat-square&label=PROFILE+VIEWS)
-
-<br><br>
-
-<sub>© Imperial Eminence Cyberguard Corporation &nbsp;·&nbsp; [imperialecc.com](https://imperialecc.com)</sub>
+<sub>© 2026 Shaksham Taneja · Published under Imperial Eminence Cyberguard Corporation</sub>
+<br><sub>Build. Measure. Document. Improve.</sub>
 
 </div>
+
+<sub>This document was written with the assistance of AI and may contain errors. For corrections or more information, email support@imperialecc.com. For legal matters, email legal@imperialecc.com.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:0B0B0C,50:2B2417,100:0B0B0C&customColorList=12&section=footer" width="100%"/>
