@@ -1,166 +1,169 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2800&pause=1000&color=4ADE80&center=true&vCenter=true&repeat=true&width=500&height=22&lines=Initializing+secure+profile...;Identity+verified+%E2%80%94+TC_Shaksham;167+credentials+loaded;Systems+ONLINE." />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=15&duration=3500&pause=1200&color=C9A84C&center=true&vCenter=true&repeat=true&width=600&height=24&weight=500&lines=Founder+%26+Chairman%2C+Imperial+Eminence+Cyberguard;Cybersecurity+%C2%B7+Applied+AI+%C2%B7+Cyber+Law+%C2%B7+EdTech;Every+claim+below+is+published%2C+dated%2C+and+verifiable." />
+
+<br><br>
 
 # Shaksham Taneja
 
-### Chairman, Imperial Eminence Cyberguard Corporation
+<sub>&nbsp;T C _ S H A K S H A M&nbsp;</sub>
 
 <br>
 
-![](https://img.shields.io/badge/STATUS-OPERATIONAL-4ADE80?style=flat-square&labelColor=0a1a0a&color=4ADE80)
+![](https://img.shields.io/badge/-FOUNDER%20%26%20CHAIRMAN-C9A84C?style=flat-square&labelColor=1C1710&color=1C1710)
 &nbsp;
-![](https://img.shields.io/badge/CLEARANCE-CHAIRMAN-16A34A?style=flat-square&labelColor=0a1a0a&color=16A34A)
-&nbsp;
-![](https://img.shields.io/badge/BASE-DELHI%20NCR%20%2F%2F%20GLOBAL-4ADE80?style=flat-square&labelColor=111&color=1a1a1a)
-&nbsp;
-![](https://img.shields.io/badge/CERTS-167+-4ADE80?style=flat-square&labelColor=0a1a0a&color=4ADE80)
-&nbsp;
-![](https://img.shields.io/badge/SYSTEMS-5+-4ADE80?style=flat-square&labelColor=0a1a0a&color=16A34A)
+![](https://img.shields.io/badge/-IMPERIAL%20EMINENCE%20CYBERGUARD%20CORPORATION-C9A84C?style=flat-square&labelColor=1C1710&color=1C1710)
+
+<br><br>
+
+[Portfolio](https://tcshaksham.imperialecc.com) &nbsp;·&nbsp; [Research](https://research.imperialecc.com) &nbsp;·&nbsp; [Ownership Registry](https://copyright.imperialecc.com) &nbsp;·&nbsp; [Contact](mailto:chairman@imperialecc.com)
 
 <br>
 
-[![](https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-tcshaksham.imperialecc.com-4ADE80?style=flat-square&labelColor=4ADE80&color=4ADE80&logoColor=000)](https://tcshaksham.imperialecc.com)
-&nbsp;&nbsp;
-[![](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20CONTACT-Chairman%40imperialecc.com-4ADE80?style=flat-square&labelColor=4ADE80&color=4ADE80&logoColor=000)](mailto:Chairman@imperialecc.com)
+</div>
+
+---
+
+<br>
+
+> *"Architectural resilience of public systems."*
+
+<br>
+
+I build systems at the intersection of cybersecurity, applied AI, and law — and I publish the evidence for everything I build. No claim on this page is unverifiable: every product links to a live research paper, a raw benchmark, or a Bitcoin-timestamped proof of authorship.
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### Currently building
+
+</div>
+
+<br>
+
+**[Teacher ONE](https://teacher.imperialecc.com)** — a retrieval-grounded learning system for CBSE students, built to say "I don't know" rather than guess. 1,100-item paired benchmark, 97.3% retrieval hit@1, four published working papers.
+&nbsp;·&nbsp; [Live](https://teacher.imperialecc.com) &nbsp;·&nbsp; [Research](https://research.imperialecc.com/teacher)
+
+**[The Ivory Index](https://aoarose.com)** — a fully offline admissions-intelligence suite, 27 modules over a 1,073-institution database, engineered under AOArose, IECC's research division.
+&nbsp;·&nbsp; [Live](https://aoarose.com) &nbsp;·&nbsp; [Research](https://research.imperialecc.com/ivory-index)
+
+**BUDDY** — an offline, emotionally-reactive AI companion. A 187-item blind evaluation, including a verbosity-bias finding that fabricated a 3.3-point capability gap in the judge itself.
+&nbsp;·&nbsp; [Research](https://research.imperialecc.com/buddy)
+
+**Cyber** — IECC's ongoing security research programme: threat research, AI governance, and digital-policy analysis.
+&nbsp;·&nbsp; [Research](https://research.imperialecc.com/cyber)
+
+<br>
+
+<sub>Full portfolio — including R&D-stage projects, legacy work, and departments, each independently timestamped — at&nbsp;</sub>**[copyright.imperialecc.com](https://copyright.imperialecc.com)**
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### Proof, not portfolio copy
+
+</div>
+
+<br>
+
+| | |
+|:--|:--|
+| **Research** | Four working papers — Teacher ONE, The Ivory Index, BUDDY, Cyber — every raw dataset published alongside the claims it supports. |
+| **Ownership** | Every product, service, and department I've built is hashed and timestamped on the Bitcoin blockchain via OpenTimestamps — verifiable by anyone, trusting no one, including me. |
+| **Open showcase** | [teacher-one](https://github.com/ShakshamTaneja/teacher-one) — real generated output, real screenshots, real exported PDFs, no source code, no mockups. |
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### Credentials
+
+<br>
+
+<sub>ACADEMIA</sub>
+
+![Harvard](https://img.shields.io/badge/Harvard-1C1710?style=flat-square) ![Oxford](https://img.shields.io/badge/Oxford-1C1710?style=flat-square) ![Cambridge](https://img.shields.io/badge/Cambridge-1C1710?style=flat-square) ![Stanford](https://img.shields.io/badge/Stanford-1C1710?style=flat-square) ![IISc](https://img.shields.io/badge/IISc-1C1710?style=flat-square) ![Google](https://img.shields.io/badge/Google-1C1710?style=flat-square) ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-1C1710?style=flat-square)
+
+<sub>INDUSTRY</sub>
+
+![Clifford Chance](https://img.shields.io/badge/Clifford_Chance-1C1710?style=flat-square) ![JPMorgan](https://img.shields.io/badge/JPMorgan-1C1710?style=flat-square) ![Goldman Sachs](https://img.shields.io/badge/Goldman_Sachs-1C1710?style=flat-square) ![Deloitte](https://img.shields.io/badge/Deloitte-1C1710?style=flat-square) ![PwC](https://img.shields.io/badge/PwC-1C1710?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-1C1710?style=flat-square)
+
+<br>
+
+<sub>167 verified credentials &nbsp;·&nbsp; 146 courses &nbsp;·&nbsp; 21 specializations</sub>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,postgres,linux,git&theme=light&perline=8"/>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### Leadership
+
+<br>
+
+**Founder & Chairman** — Imperial Eminence Cyberguard Corporation (IECC)
+
+**Cyber Ambassador** — Anti-Corruption Association of India · built &amp; operate their [digital infrastructure](https://abbusindia.com)
+
+**Founder & Organizer** — Imperial Technology Consortium (ITC)
+
+<br>
 
 </div>
 
 ---
 
-<div align="center">
-
-```
-Cyber Ambassador   ::   ANTI CORRUPTION ASSOCIATION OF INDIA*."
-OPERATOR  ::  Shaksham Taneja  [handle: TC_Shaksham]
-SECTOR    ::  Cybersecurity  ·  AI Systems  ·  Algorithmic Law
-ORG       ::  Imperial Eminence Cyberguard Corporation (IECC)
-MANDATE   ::  "Architectural resilience of public systems."
-```
-
-</div>
-
----
+<br>
 
 <div align="center">
 
-### CREDENTIALS
-
-| ACADEMIA | INDUSTRY |
-|:---:|:---:|
-| ![Harvard](https://img.shields.io/badge/Harvard-A51C30?style=flat-square) ![Oxford](https://img.shields.io/badge/Oxford-002147?style=flat-square) ![Cambridge](https://img.shields.io/badge/Cambridge-003b5c?style=flat-square) ![Stanford](https://img.shields.io/badge/Stanford-8C1515?style=flat-square) ![IISc](https://img.shields.io/badge/IISc-0a1a0a?style=flat-square&color=4ADE80) ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square) ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-FF6F00?style=flat-square) | ![Clifford Chance](https://img.shields.io/badge/Clifford_Chance-003087?style=flat-square) ![JPMorgan](https://img.shields.io/badge/JPMorgan-003087?style=flat-square) ![Goldman](https://img.shields.io/badge/Goldman_Sachs-0a3d62?style=flat-square) ![Deloitte](https://img.shields.io/badge/Deloitte-86BC25?style=flat-square) ![PwC](https://img.shields.io/badge/PwC-D04A02?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) |
-
-**167 verified · 146 courses · 21 specializations**
-
-</div>
-
----
-
-<div align="center">
-
-### SYSTEMS
-
-</div>
-
-<table align="center" width="90%">
-<tr>
-<td align="center" width="20%">
-
-**VYRMORA**
-<br><sub>Privacy Browser</sub>
-<br><br>Zero telemetry.
-<br>Fingerprint-proof.
-<br><br>![](https://img.shields.io/badge/LIVE-4ADE80?style=flat-square&labelColor=0a1a0a)
-
-</td>
-<td align="center" width="20%">
-
-**VOIDLEX**
-<br><sub>AI Legal Engine</sub>
-<br><br>Regulatory parser.
-<br>Jurisdictional AI.
-<br><br>![](https://img.shields.io/badge/LIVE-4ADE80?style=flat-square&labelColor=0a1a0a)
-
-</td>
-<td align="center" width="20%">
-
-**MORVYREX**
-<br><sub>Custom OS</sub>
-<br><br>Air-gapped.
-<br>Intel-grade hardened.
-<br><br>![](https://img.shields.io/badge/IN_DEV-ca8a04?style=flat-square&labelColor=1a1200)
-
-</td>
-<td align="center" width="20%">
-
-**NEON-SIGIL**
-<br><sub>Gesture Engine</sub>
-<br><br>Spatial drawing.
-<br>Browser-native JS.
-<br><br>![](https://img.shields.io/badge/LIVE-4ADE80?style=flat-square&labelColor=0a1a0a)
-
-</td>
-<td align="center" width="20%">
-
-**EDUXENCE**
-<br><sub>EdTech Platform</sub>
-<br><br>Scalable LMS.
-<br>Accessible by design.
-<br><br>![](https://img.shields.io/badge/LIVE-4ADE80?style=flat-square&labelColor=0a1a0a)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### STACK
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,linux,bash,git,vscode,figma,cloudflare,postgres,mongodb,github&theme=dark&perline=8"/>
-
-</div>
-
----
-
-<div align="center">
-
-### METRICS
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=ShakshamTaneja&show_icons=true&hide_border=true&bg_color=000000&title_color=4ADE80&icon_color=4ADE80&text_color=365314&ring_color=4ADE80&include_all_commits=true&count_private=true&custom_title=SHAKSHAM"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ShakshamTaneja&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A84C&icon_color=C9A84C&text_color=8A8A8A&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakshamTaneja&layout=compact&hide_border=true&bg_color=000000&title_color=4ADE80&text_color=365314&langs_count=6&custom_title=LANGUAGES"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakshamTaneja&layout=compact&hide_border=true&bg_color=00000000&title_color=C9A84C&text_color=8A8A8A&langs_count=6"/>
 
-<br>
+<br><br>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=ShakshamTaneja&theme=transparent&hide_border=true&stroke=4ADE80&ring=4ADE80&fire=FCD34D&currStreakNum=4ADE80&sideNums=365314&currStreakLabel=4ADE80&sideLabels=365314&dates=1a2e0a&background=000000"/>
+![](https://komarev.com/ghpvc/?username=ShakshamTaneja&color=C9A84C&style=flat-square&label=PROFILE+VIEWS)
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-### LEADERSHIP
-
-`Cyber Ambassador` — **Anti-Corruption Association of India**
-
-`Chairman & Lead Architect` — **Imperial Eminence Cyberguard Corporation (IECC)**
-
-`Founder & Organizer` — **Imperial Technology Consortium (ITC)**
-
-<br>
-
-```
-"Architectural resilience of public systems."
-                               — TC_Shaksham
-```
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=ShakshamTaneja&color=4ADE80&style=flat-square&label=PROFILE+READS)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/github-ShakshamTaneja-4ADE80?style=flat-square&logo=github&labelColor=0a1a0a)](https://github.com/ShakshamTaneja)
+<sub>© Imperial Eminence Cyberguard Corporation &nbsp;·&nbsp; [imperialecc.com](https://imperialecc.com)</sub>
 
 </div>
