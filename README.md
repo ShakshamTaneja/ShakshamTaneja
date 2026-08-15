@@ -11,7 +11,7 @@
 **Founder & Lead Systems Engineer, Imperial Eminence Cyberguard Corporation**
 <br>Meerut · Delhi NCR · India &nbsp;·&nbsp; Class of 2027
 
-[Portfolio](https://tcshaksham.imperialecc.com) · [Research](https://research.imperialecc.com) · [Ownership Registry](https://copyright.imperialecc.com) · [LinkedIn](https://www.linkedin.com/in/tcshaksham) · [Instagram](https://www.instagram.com/tc2sk/) · [Email](mailto:tcshaksham@imperialecc.com)
+[Portfolio](https://tcshaksham.imperialecc.com) · [Research](https://research.imperialecc.com) · [Ownership Registry](https://copyright.imperialecc.com) · [ORCID](https://orcid.org/0009-0007-7708-5988) · [LinkedIn](https://www.linkedin.com/in/tcshaksham) · [Instagram](https://www.instagram.com/tc2sk/) · [Email](mailto:tcshaksham@imperialecc.com)
 
 </div>
 
